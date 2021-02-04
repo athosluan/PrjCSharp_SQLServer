@@ -1,0 +1,12 @@
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\x64\Debug\EstudoGridView.exe.config
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\x64\Debug\EstudoGridView.exe
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\x64\Debug\EstudoGridView.pdb
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.EstudoGridView.resources
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.Properties.Resources.resources
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.csproj.GenerateResource.cache
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.exe
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.pdb
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.csprojAssemblyReference.cache
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\x64\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\x64\Debug\EstudoGridView.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoGridView", "EstudoGridView\EstudoGridView.csproj", "{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|x64.ActiveCfg = Debug|x64
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|x64.Build.0 = Debug|x64
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Debug|x86.Build.0 = Debug|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|x64.Build.0 = Release|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|x86.ActiveCfg = Release|Any CPU
+		{5E372DC3-A44E-4EC3-91AC-B8B27A216C71}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF6C539-88CB-4F1C-A5C6-34624FD675C1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.Properties.Resources.resources
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.csproj.GenerateResource.cache
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\Debug\EstudoGridView.exe.config
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\Debug\EstudoGridView.exe
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\bin\Debug\EstudoGridView.pdb
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.exe
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.pdb
+C:\Users\Walter\source\repos\ConsoleApp1\EstudoGridView\obj\Debug\EstudoGridView.EstudoGridView.resources
